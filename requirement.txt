@@ -1,0 +1,23 @@
+google-genai
+python-dotenv
+
+Enter candidate name:
+> Muhammed Alimi
+
+=== Eligibility Check ===
+Are you authorized to work in the United States? (yes/no)
+> yes
+Do you have at least 1 year of customer-facing experience? (yes/no)
+> yes
+
+=== Candidate Assessment ===
+
+Tell me about a time you handled a difficult customer.
+> I had a customer that wanted more than AI can provide. I had to understand thweir pain point, business needs tailored it to the configuration requirement. I explain to them the capacity an
+d the limitation and tried to find a common ground in ensuring that they get a more realiastic solution 
+
+How would you respond if a customer received a damaged order and was upset?
+> I would try to understand their pain points after listening carefully and try to offer a solution that can compensate for the damages and the inconvience  
+
+Why are you interested in this customer support role?
+> I love helping people and sloving complex problems is my thing. I love it 

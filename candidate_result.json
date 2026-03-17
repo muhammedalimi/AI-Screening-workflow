@@ -1,0 +1,52 @@
+{
+  "candidate_name": "Muhammed Alimi",
+  "role_title": "Customer Support Specialist",
+  "timestamp": "2026-03-17T05:46:39.992227",
+  "knockout_passed": true,
+  "knockout_results": [
+    {
+      "id": "work_auth",
+      "question": "Are you authorized to work in the United States? (yes/no)",
+      "answer": "yes",
+      "passed": true
+    },
+    {
+      "id": "experience",
+      "question": "Do you have at least 1 year of customer-facing experience? (yes/no)",
+      "answer": "yes",
+      "passed": true
+    }
+  ],
+  "answers": [
+    {
+      "question": "Tell me about a time you handled a difficult customer.",
+      "answer": "I had a customer that wanted more than AI can provide. I had to understand thweir pain point, business needs tailored it to the configuration requirement. I explain to them the capacity and the limitation and tried to find a common ground in ensuring that they get a more realiastic solution"
+    },
+    {
+      "question": "How would you respond if a customer received a damaged order and was upset?",
+      "answer": "I would try to understand their pain points after listening carefully and try to offer a solution that can compensate for the damages and the inconvience"
+    },
+    {
+      "question": "Why are you interested in this customer support role?",
+      "answer": "I love helping people and sloving complex problems is my thing. I love it"
+    }
+  ],
+  "scores": {
+    "communication_score": 75,
+    "empathy_score": 85,
+    "problem_solving_score": 80,
+    "professionalism_score": 80,
+    "role_fit_score": 85,
+    "overall_score": 81,
+    "strengths": [
+      "Demonstrates empathy and a desire to understand customer pain points.",
+      "Expresses enthusiasm for helping people and solving problems, aligning with the role's core responsibilities."
+    ],
+    "concerns": [
+      "Communication could be more polished and clear; some responses are slightly vague.",
+      "Could benefit from providing more specific examples and quantifiable results in responses."
+    ],
+    "summary": "Muhammed demonstrates a good understanding of customer support principles, particularly empathy and problem-solving. He expresses genuine interest in the role and helping customers. While his communication is generally effective, there's room for improvement in clarity and providing more concrete examples. Overall, he appears to be a suitable candidate with potential for success in a customer support role."
+  },
+  "recommendation": "Advance"
+}
